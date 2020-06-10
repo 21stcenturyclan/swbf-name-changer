@@ -4,3 +4,5 @@
 ![Search](https://github.com/21stcenturyclan/swbf-name-changer/blob/master/readme/search.png)
 ![Found](https://github.com/21stcenturyclan/swbf-name-changer/blob/master/readme/found.png)
 ![Set](https://github.com/21stcenturyclan/swbf-name-changer/blob/master/readme/set.png)
+
+Download: [Releases](https://github.com/21stcenturyclan/swbf-name-changer/releases)
